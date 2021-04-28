@@ -3,6 +3,6 @@ function myfun() {
         alert("login successfully");
         window.location = "https://jgoso.com"
     } else {
-        alert("invalid");
+        alert("Invalid Password !");
     }
 }
