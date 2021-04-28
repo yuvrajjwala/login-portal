@@ -2,6 +2,7 @@
 
 //This will redirect you to jgoso.com
 
+
 function myfun() {
     if (document.form.password.value === "stayhappy") {
         alert("login successfully");
@@ -10,3 +11,6 @@ function myfun() {
         alert("Invalid Password ! Try again.");
     }
 }
+
+
+// code by YUVRAJ JWALA
