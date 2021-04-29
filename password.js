@@ -4,7 +4,7 @@
 
 
 function myfun() {
-    if (document.form.password.value === "stayhappy") {
+    if (document.form.password.value === "stayhappy" && document.form.name.value==="Yuvraj Jwala") {
         alert("login successfully");
         window.location = "https://jgoso.com"
     } else {
